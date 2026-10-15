@@ -1,0 +1,225 @@
+.wholepage{
+    background-color: rgb(211, 208, 208);
+    width:90%;
+    border-radius:20px;
+  
+}
+
+.first {
+  background: rgba(51, 63, 154, 0.8);
+  width: auto;
+  color: white;
+  padding-block: 20px;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.first a {
+  display: inline-block;
+  color: white;
+  border-radius: 20px;
+  background-color: rgba(51, 63, 154, 0.614);
+  padding: 20px;
+  text-decoration: none;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+.about h2{
+    padding-top:20px;
+    padding-left: 20px;
+}
+.about{
+    background-color:white;
+    border-radius: 20px;}
+   
+.about img{
+width:120px;
+border-radius:50%;
+float:left;
+border-color: white;
+border-width: 20px;
+margin-right: 20px;
+}
+.about firstpar{
+    padding:50px;
+   
+
+}
+.about secondpar{
+    padding:50px;
+    margin:20px;
+
+}
+
+.about span{
+    color:blue;
+}
+
+.about a {
+  display: inline-block;
+  color: white;
+  border-radius: 20px;
+  background-color: rgba(51, 63, 154, 0.8);
+  padding: 20px;
+  text-decoration: none;
+  margin:10px;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  
+}
+.clear{ 
+    clear:both;
+}
+.myskills{
+    background:white;
+    border-radius:20px;
+}
+.myskills h2{
+     padding-top:20px;
+    padding-left: 20px;
+}
+
+.myskills num1{
+padding:20px;
+}
+
+.box1{
+    background-color:#f4f5f7;
+   
+    width:fit-content;
+    border-radius:20px;
+    padding:10px;
+    margin:20px;
+    float:left;
+}
+.box2{
+    background-color:#f4f5f7;
+    width:fit-content;
+    border-radius:20px;
+     padding:10px;
+      margin:20px;
+       float:left;
+}
+.box3{
+    background-color:#f4f5f7;
+    width:fit-content;
+    border-radius:20px;
+     padding:10px;
+      margin:20px;
+       float:left;
+}
+.box4{
+    background-color:#f4f5f7;
+    width:fit-content;
+    border-radius:20px;
+     padding:10px;
+      margin:20px;
+       float:left;
+}
+
+.experience {
+  background-color: white;
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 20px;
+  overflow: hidden;
+}
+
+.experience h2 {
+  color: rgb(41, 51, 144);
+  font-size: 1.3rem;
+  margin-bottom: 15px;
+}
+
+.exp1, .exp2 {
+  background-color: #f4f5f7;
+  padding: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+ 
+}
+
+.exp1 img.comp, .exp2 img.compimg {
+  width: 45px;
+  height: 45px;
+  border-radius: 8px;
+  float: left;
+  margin-right: 15px;
+  object-fit: cover;
+}
+
+.experience h2, .experience h2 {
+
+  color:black;
+}
+
+.exp1 .company, .exp2 .company {
+  font-size: 0.85rem;
+  color: rgb(41, 51, 144);
+  font-weight: bold;
+  display: block;
+  margin: 2px 0;
+}
+
+.exp1 .date, .exp2 .date {
+  font-size: 0.75rem;
+  color: #777;
+  margin-bottom: 8px;
+}
+
+.exp1 .desc, .exp2 .desc {
+  font-size: xx-small;
+  color: #555;
+  line-height: 1.4;
+  overflow: hidden;
+}
+.contact {
+  background-color: rgba(51, 63, 154, 0.8);
+  color: white;
+  border-radius: 20px;
+  padding: 25px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.contact h2 {
+  color: white;
+  font-size: 1.3rem;
+  margin-bottom: 8px;
+}
+
+.contact p {
+  font-size: 0.85rem;
+  opacity: 0.85;
+  margin-bottom: 20px;
+}
+
+ 
+.contactlinks {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.contactlinks a {
+  background-color: rgba(51, 63, 154, 0.8);
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  font-size: 0.85rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+.footer {
+  background-color: rgb(20, 26, 92); 
+  color: white;
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.footer p {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.8);
+  margin:0%
+}
